@@ -1,14 +1,13 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:FFA500,100:FF3C00\&height=200\&section=header\&text=Welcome%20to%20My%20GitHub!\&fontSize=40\&fontColor=ffffff)
 
 <h1 align="center">Hi 👋, I’m Ray Chen</h1>
-<h3 align="center">I am a Computer Engineering student at Queen’s University</h3>
+<h3 align="center">🇺🇸 & 🇨🇦 Citizen</h3>
 
 * 🌱 I’m currently learning **Java and Python, and expanding my skills in Cloud Computing and Machine Learning**
-* 🇺🇸 & 🇨🇦 Citizen
-* 💬 Ask me about **Full-Stack Development, Machine Learning, AWS, React, TensorFlow, Arduino, Robotics**
+* I am a Computer Engineering student at Queen’s University
 * 🔭 I’m currently leading backend development at **SkillTree**, and working on personal ML & vision sensor projects
 * ⚡ Fun fact: I programmed a 2D Battle Royale in JavaScript that reached **15k+ players**
-* 🛠️ TECH STACK: **Java | Python | C/C++ | JavaScript | Swift | React | Node.js | Flask | TensorFlow | AWS | Docker**
+* 🛠️ TECH STACK: **Java | Python | C/C++ | JavaScript | React | Node.js | Flask | TensorFlow | AWS | Docker**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raye92&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Ray’s top languages" /></p>
 
