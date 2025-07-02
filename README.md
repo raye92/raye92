@@ -11,21 +11,21 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raye92&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Ray’s top languages" /></p>
 
-\ 
+ 
 **Languages** \
 ![Java](https://img.shields.io/badge/Java-17-red?logo=java\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-brightgreen?logo=c%2B%2B\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-blue?logo=postgresql\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript\&logoColor=white)
-\ 
+
 **Frameworks** \
 ![React](https://img.shields.io/badge/React-18-blue?logo=react\&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-Mobile-blue?logo=react\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-20-green?logo=nodedotjs\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Python-black?logo=flask\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow\&logoColor=white)
-\ 
+
 **Tools** \
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-yellow?logo=amazon-aws\&logoColor=white)
@@ -33,7 +33,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-Design-ff69b4?logo=figma\&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-Project--Management-blue?logo=jira\&logoColor=white)
-\ 
+
 **Libraries** \
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-ff4b4b?logo=streamlit\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerics-013243?logo=numpy\&logoColor=white)
