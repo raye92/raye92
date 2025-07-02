@@ -9,7 +9,7 @@
 * ⚡ Fun fact: I programmed a 2D Battle Royale in JavaScript that reached **15k+ players**
 * 🛠️ TECH STACK: **Java | Python | C/C++ | JavaScript | React | Node.js | Flask | TensorFlow | AWS | Docker**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raye92&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Ray’s top languages" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raye92&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Ray’s top languages" /></p>
 
 ![Java](https://img.shields.io/badge/Java-17-red?logo=java\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python\&logoColor=white)
