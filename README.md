@@ -17,6 +17,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-brightgreen?logo=c%2B%2B\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-blue?logo=postgresql\&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-NoSQL-4053D6?logo=amazon-dynamodb\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript\&logoColor=white)
 
 **Frameworks** \
