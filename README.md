@@ -21,12 +21,12 @@
 <details>
   <summary>📖 Education & Experience</summary>
 
-**Queen’s University**, Kingston, ON
-Bachelor of Science in Computer Engineering, Innovation Stream
+**Queen’s University**, Kingston, ON \
+Bachelor of Science in Computer Engineering, Innovation Stream \
 Sep 2023 – May 2027&#x20;
 
 
 > “Strive not to be a success, but rather to be of value.” – Albert Einstein
 
-Feel free to connect!
+Feel free to connect! \
 📫 [Portfolio](raysworld.streamlit.app) | [LinkedIn](linkedin.com/in/raye92)
