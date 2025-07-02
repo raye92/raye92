@@ -29,4 +29,4 @@ Sep 2023 – May 2027&#x20;
 > “Strive not to be a success, but rather to be of value.” – Albert Einstein
 
 Feel free to connect!
-📫 raysworld.streamlit.app | linkedin.com/in/raye92
+📫 [Portfolio](raysworld.streamlit.app) | [LinkedIn](linkedin.com/in/raye92)
