@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:FFA500,100:FF3C00\&height=200\&section=header\&text=Welcome%20to%20My%20GitHub!\&fontSize=40\&fontColor=ffffff)
 
 <h1 align="center">Hi 👋, I’m Ray Chen</h1>
-<h1 align="center">🇺🇸** & 🇨🇦 Citizen**</h1>
+<h1 align="center">**🇺🇸 & 🇨🇦 Citizen**</h1>
 
 * 🌱 I’m currently learning **Java and Python, and expanding my skills in Cloud Computing and Machine Learning**
 * I am a Computer Engineering student at Queen’s University
