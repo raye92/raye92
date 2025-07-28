@@ -6,6 +6,7 @@
 * I am a Computer Engineering student at Queen’s University
 * 🔭 I’m currently leading backend development at **SkillTree**, and working on personal ML & vision sensor projects
 * ⚡ Fun fact: I programmed a 2D Battle Royale in JavaScript that reached **15k+ players**
+* 💡 I’m also building **Curate AI**, a platform to curate and evaluate LLM APIs across providers like OpenAI, Mistral, and Anthropic
 * 🛠️ TECH STACK: **Java | Python | C/C++ | JavaScript | React | Node.js | Flask | TensorFlow | AWS | Docker**
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raye92&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Ray’s top languages" /></p>
