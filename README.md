@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I’m Ray Chen <br>🇺🇸 & 🇨🇦 Citizen</h1>
 
+* 🔗 Check out my LLM aggregator — [Curate AI](https://main.d3dzs5ykzgbon2.amplifyapp.com/)
 * 🌱 I’m currently learning **Java and Python, and expanding my skills in Cloud Computing and Machine Learning**
 * I am a Computer Engineering student at Queen’s University
 * 🔭 I’m currently leading backend development at **SkillTree**, and working on personal ML & vision sensor projects
